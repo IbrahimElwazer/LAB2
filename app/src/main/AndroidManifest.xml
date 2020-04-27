@@ -14,6 +14,10 @@
         </activity>
 
         <activity android:name=".MoreComplexUIProgrammatically">
+
+        </activity>
+
+        <activity android:name=".GreetPersonActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
